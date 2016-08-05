@@ -18,11 +18,11 @@ This script was developed using R v3.1.1 on 64-bit Linux.
 Required R packages: ggplot2, entropy.
 
 ##Description:##
-*Note:* This script was aiming to keep things generalized, but some nuanced lines may still exist, and editing may be required to make it fit your data.
+*Note:* This script aims to keep things generalized, but some nuanced lines may still exist, and editing may be required to make it fit your data.
 
 MiTCR output files need to be parsed and combined into a single tsv file with the following headers:
 
-library	sample	chain	aaSeq	nucSeq	abundance
+||library|sample|chain|aaSeq|nucSeq|abundance||
 
 
 During analysis, this dataframe will be merged with a "sample" dataframe. This is mainly to ensure that samples which have no TCR yield are maintained through the analysis, but other sample variables can also be introduced at this point.
