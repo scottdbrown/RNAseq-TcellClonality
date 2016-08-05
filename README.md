@@ -22,7 +22,7 @@ Required R packages: ggplot2, entropy.
 
 MiTCR output files need to be parsed and combined into a single tsv file with the following headers:
 
-||library|sample|chain|aaSeq|nucSeq|abundance||
+|library|sample|chain|aaSeq|nucSeq|abundance|
 
 
 During analysis, this dataframe will be merged with a "sample" dataframe. This is mainly to ensure that samples which have no TCR yield are maintained through the analysis, but other sample variables can also be introduced at this point.
