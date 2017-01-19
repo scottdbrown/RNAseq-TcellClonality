@@ -4,9 +4,9 @@ Processing CDR3 clonality from RNA-seq data.
 July 22, 2016
 Scott Brown
 
-Citation: [Brown et al. Bioinformatics 2016](http://bioinformatics.oxfordjournals.org/cgi/content/abstract/btw810?ijkey=AhvBmgzGqyizW09&keytype=ref)
+Citation: [Brown et al. Bioinformatics 2016](https://academic.oup.com/bioinformatics/article/2918631/Defining-the-clonality-of-peripheral-T-cell)
 doi: 10.1093/bioinformatics/btw810
-http://bioinformatics.oxfordjournals.org/cgi/content/abstract/btw810
+https://academic.oup.com/bioinformatics/article/2918631/Defining-the-clonality-of-peripheral-T-cell
 
 
 --------------------------------------------------
