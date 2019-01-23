@@ -33,5 +33,5 @@ The script will remove non-productive CDR3 sequences, calculate the relative abu
 
 The script has an example plot showing the clonal landscape of each sample, highlighting dominant CDR3s in each.
 
-Finally, it includes code for analyzing TCR C gene expression. For our analysis, RSEM v1.2.29 was used to calculate gene expression levels for all transcripts, and transcripts from TCR C genes were extracted.
+Finally, it includes code for analyzing TCR C gene expression. For our analysis, RSEM v1.2.29 was used to calculate gene expression levels for all transcripts, and gene expression values for transcripts from TCR C genes were extracted.
 
